@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppDataScript</string>
+    <string name="reload">Обновить</string>
+</resources>
